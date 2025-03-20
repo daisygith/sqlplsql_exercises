@@ -1,0 +1,14 @@
+-- 1.
+SELECT first_name, last_name, salary, phone_number from HR.EMPLOYEES;
+
+--2. 
+SELECT NVL(STATE_PROVINCE, 'BRAK') AS LOKALIZACJA, CITY FROM HR.LOCATIONS;
+
+--3. 
+SELECT DISTINCT DEPARTMENT_ID FROM HR.EMPLOYEES ORDER BY DEPARTMENT_ID DESC;
+
+--4. 
+SELECT first_name AS IMIE, last_name AS NAZWISKO, salary AS WYNAGORDZENIE, phone_number AS NUMER_TEL from HR.EMPLOYEES ORDER BY LAST_NAME ASC;
+
+--5. 
+SELECT first_name, last_name, salary, phone_number, email from HR.EMPLOYEES ORDER BY SALARY DESC, LAST_NAME ASC;
