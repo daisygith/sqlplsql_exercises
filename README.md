@@ -7,7 +7,8 @@ These exercises are made based on the pdf file cwiczenia_sql_plsql.pdf.
 |---------------------   |-------------------|
 | Instrukcja SELECT      | select_statement  |
 | Filtrowanie wierszy    | filtering_rows    |
-|---------------------   |-------------------|
+
+
 | Different file         |  name sql file    |
 |---------------------   |-------------------|
 | TCL_q                  |  TCL              |
