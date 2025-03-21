@@ -1,0 +1,27 @@
+1. EXISTS vs. IN
+	Find employees who work in existing departments, using EXISTS.
+	Write the same query using IN.
+
+2. SAVEPOINT and ROLLBACK TO
+Create a transaction that:
+	Inserts 3 records
+	Creates a SAVEPOINT after the second record
+	Deletes one record and rolls back to the SAVEPOINT
+	
+3. NOT EXISTS vs. NOT IN
+	Find employees who are not assigned to any department, using NOT EXISTS.
+	Then try to achieve the same result with NOT IN – see what happens if NULL appears in the subquery.
+	
+4. ANY vs. ALL
+	Find employees who earn more than any employee in department 10 (ANY).	
+	Find employees who earn more than all employees in department 20 (ALL).	
+
+5.	Advanced transaction
+Write a script that:
+	Inserts several records into employees
+	Creates a SAVEPOINT
+	Updates a selected record
+	Creates a second SAVEPOINT
+	Deletes a record
+	Rolls back only to the second SAVEPOINT (so the DELETE is undone, but the UPDATE remains)
+	Ends with COMMIT
