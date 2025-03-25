@@ -7,7 +7,7 @@ These exercises are made based on the pdf file cwiczenia_sql_plsql.pdf.
 |---------------------   |-------------------|
 | Instrukcja SELECT      | select_statement  |
 | Filtrowanie wierszy    | filtering_rows    |
-| Funkcje znakowe, numerycznie i do manipulowania datami    | filtering_rows    |
+| Funkcje znakowe, numerycznie i do manipulowania datami    | date_manipulation_functions |
 
 
 | Different file         |  name sql file    |
