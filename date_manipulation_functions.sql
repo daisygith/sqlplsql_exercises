@@ -38,10 +38,6 @@ SELECT CASE
 FROM dual;
 
 --8. 
-select to_date('2100-12-31', 'YYYY-MM_DD') - sysdate as DATE_column from dual;
-
-SELECT TO_DATE('2010-01-02', 'YYYY-MM-DD') -  TO_DATE('2000-01-01', 'YYYY-MM-DD') AS DateDiff FROM dual;
-
 SELECT SYSDATE AS today, 
        TO_DATE('31-12-2100', 'DD-MM-YYYY') AS end, 
        SYSDATE + ((TO_DATE('31-12-2100', 'DD-MM-YYYY') - SYSDATE) / 2) AS half_period
