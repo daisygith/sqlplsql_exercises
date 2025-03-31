@@ -1,5 +1,5 @@
 # sqlplsql_exercises
-**All exercises, I did in ORACLE LIVE SQL on hr.employees data.**
+**All exercises, I did in ORACLE LIVE SQL**
 
 These exercises are made based on the pdf file cwiczenia_sql_plsql.pdf.
 
