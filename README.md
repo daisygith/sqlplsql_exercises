@@ -9,6 +9,8 @@ These exercises are made based on the pdf file cwiczenia_sql_plsql.pdf.
 | Filtrowanie wierszy    | filtering_rows    |
 | Funkcje znakowe, numerycznie i do manipulowania datami    | date_manipulation_functions |
 | Funkcje agregujące     | aggregation_functions |
+| Grupowanie    | grouping |
+| Załączenia     | joins |
 
 
 | Different file         |  name sql file    |
