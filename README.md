@@ -11,7 +11,7 @@ These exercises are made based on the pdf file cwiczenia_sql_plsql.pdf.
 | Funkcje agregujące     | aggregation_functions |
 | Grupowanie    | grouping |
 | Załączenia     | joins |
-| Podzapytania   | aubqueries |
+| Podzapytania   | subqueries |
 | Obiekty bazy danych, modyfikowanie, dodawanie i kasowanie danych   | |
 
 
