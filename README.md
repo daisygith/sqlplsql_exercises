@@ -13,6 +13,7 @@ These exercises are made based on the pdf file cwiczenia_sql_plsql.pdf.
 | Załączenia     | joins |
 | Podzapytania   | subqueries |
 | Obiekty bazy danych, modyfikowanie, dodawanie i kasowanie danych   | |
+| sql-practice.com   | sql-practice-solutions |
 
 
 | Different file         |  name sql file    |
