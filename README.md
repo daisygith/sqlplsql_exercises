@@ -14,7 +14,12 @@ These exercises are made based on the pdf file cwiczenia_sql_plsql.pdf.
 | Podzapytania   | subqueries |
 | Obiekty bazy danych, modyfikowanie, dodawanie i kasowanie danych   | |
 |Zmienne w PL/SQL| variables|
-
+|Bloki warunkowe i pętle| conditional_blocks_loops|
+| |  |
+| |  |
+| |  |
+| |  |
+| |  |
 
 
 | Different file         |  name sql file    |             |
