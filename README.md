@@ -15,7 +15,7 @@ These exercises are made based on the pdf file cwiczenia_sql_plsql.pdf.
 | Obiekty bazy danych, modyfikowanie, dodawanie i kasowanie danych   | |
 |Zmienne w PL/SQL| variables|
 |Bloki warunkowe i pętle| conditional_blocks_loops|
-| |  |
+|Typy rekordowe, wierszowe i SQL w PL/SQL|record_row  |
 | |  |
 | |  |
 | |  |
