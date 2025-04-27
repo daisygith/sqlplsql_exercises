@@ -17,9 +17,9 @@ These exercises are made based on the pdf file cwiczenia_sql_plsql.pdf.
 |Bloki warunkowe i pętle| conditional_blocks_loops|
 |Typy rekordowe, wierszowe i SQL w PL/SQL|record_row  |
 |Kursory | cursors |
-| |  |
-| |  |
-| |  |
+|Wyjątki | exceptions |
+|Procedury i funkcje | procedures_functions |
+| Pakiety | packages |
 
 
 | Different file         |  name sql file    |             |
